@@ -1,0 +1,38 @@
+.imagen__carrusel_uno{
+    height: 500px;
+    object-fit: cover;
+    object-position: 0 80%;
+}
+
+.imagen__carrusel_dos{
+    height: 500px;
+    object-fit: cover;
+    object-position: 0 65%;
+}
+
+.imagen__carrusel_tres{
+    height: 500px;
+    object-fit: cover;
+    object-position: 0 25%;
+}
+.titulo__carrusel{
+    font-family: 'Pacifico', cursive;
+}
+.texto__color__especial{
+    color: #0f8d1a;
+}
+
+.card__ancho{
+    width: 18rem;
+}
+.btn__color__especial{
+    background-color: #0f8d1a;
+    color: white;
+}
+.borde__color__especial{
+    border-color: #0f8d1a;
+}
+.card__imagen__posicion{
+    height: 200px;
+    object-fit: cover;
+}
