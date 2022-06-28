@@ -23,7 +23,7 @@
 }
 
 .card__ancho{
-    width: 18rem;
+    max-width: 18rem;
 }
 .btn__color__especial{
     background-color: #0f8d1a;
